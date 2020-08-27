@@ -16,10 +16,10 @@
 </p>
 <h3 align="center">Clean Interface</h3>
 <p align="center">
-  <img src="images/keeper-empty.png" />
-  <img src="images/keeper-full.png" />
+  <img src="images/google-a.png" />
+  <img src="images/google-b.png" />
 </p>
 <h3 align="center">Responsive</h3>
 <p align="center">
-  <img src="images/keeper-responsive.png" />
+  <img src="images/google-c.png" />
 </p>
