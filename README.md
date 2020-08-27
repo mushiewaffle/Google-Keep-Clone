@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/secrets-title.png" />
+  <img src="images/google-title.png" />
 </p>
 <h3 align="center">
   A platform where users can anonymously read or post secrets on a public forum.</br>
@@ -10,24 +10,16 @@
    Browsing sessions and saved with Cookies using Passport.js.
 </h4>
 <h1></h1>
-<h3 align="center">Landing Page</h3>
+<h3 align="center">Home Page</h3>
 <p align="center">
-  <img src="images/secrets-home.png" />
+  <img src="images/GoogleKeep.png" />
 </p>
-<h3 align="center">Register or Login</h3>
+<h3 align="center">Clean Interface</h3>
 <p align="center">
-  <img src="images/secrets-register.png" />
-  <img src="images/secrets-login.png" />
-</p>
-<h3 align="center">Home page</h3>
-<p align="center">
-  <img src="images/secrets-lg.png" />
-</p>
-<h3 align="center">Submit a Secret</h3>
-<p align="center">
-  <img src="images/secrets-submit.png" />
+  <img src="images/keeper-empty.png" />
+  <img src="images/keeper-full.png" />
 </p>
 <h3 align="center">Responsive</h3>
 <p align="center">
-  <img src="images/secrets-md.png" />
+  <img src="images/keeper-responsive.png" />
 </p>
