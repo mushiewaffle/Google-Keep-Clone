@@ -2,7 +2,7 @@
   <img src="images/google-title.png" />
 </p>
 <h3 align="center">
-  A Google Keep clone where users can create note snippets.</br>
+  A Google Keep clone where users can create responsive note snippets.</br>
 </h3>
 <h4 align="center">
    Utilized JSX, Hooks, State Management, Containers, Virtual DOM, Declarative Programming, React, Babel, ES6, and Html/CSS
