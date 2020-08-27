@@ -7,9 +7,6 @@
 <h4 align="center">
    Utilized JSX, Hooks, State Management, Containers, Virtual DOM, Declarative Programming, React, Babel, ES6, and Html/CSS
  to keep the project highly responsive, modular, and easy to read.
-
-   Login information is encrypted, hashed, salted, and saved with OAuth and MongoDB. </br>
-   Browsing sessions and saved with Cookies using Passport.js.
 </h4>
 <h1></h1>
 <h3 align="center">Home Page</h3>
