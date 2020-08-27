@@ -2,10 +2,12 @@
   <img src="images/google-title.png" />
 </p>
 <h3 align="center">
-  A platform where users can anonymously read or post secrets on a public forum.</br>
+  A Google Keep clone where users can create note snippets.</br>
 </h3>
 <h4 align="center">
-   Allows users to securely Register/Login with Email/Password or Google/Facebook. </br>
+   Utilized JSX, Hooks, State Management, Containers, Virtual DOM, Declarative Programming, React, Babel, ES6, and Html/CSS
+ to keep the project highly responsive, modular, and easy to read.
+
    Login information is encrypted, hashed, salted, and saved with OAuth and MongoDB. </br>
    Browsing sessions and saved with Cookies using Passport.js.
 </h4>
