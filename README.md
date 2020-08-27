@@ -5,7 +5,7 @@
   A Google Keep clone where users can create responsive note snippets.</br>
 </h3>
 <h4 align="center">
-   Utilized JSX, Hooks, State Management, Containers, Virtual DOM, Declarative Programming, React, Babel, ES6, and Html/CSS
+   Utilized React, Babel, ES6, JSX, Hooks, Html/CSS, State Management, Containers, Virtual DOM, and Declarative Programming
  to keep this web application highly responsive, modular, and easy to read.
 </h4>
 <h1></h1>
